@@ -5,7 +5,7 @@ public class GroceryList {
     // Remember to create the array!
     // You don't need to change any of the values in the array
     public GroceryList() {
-        String[] arr = new String[10];
+        arr = new String[10];
     }
 
     // Adds an item to the grocery list
